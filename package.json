@@ -1,0 +1,35 @@
+{
+  "name": "browser-polyfill",
+  "version": "3.14.0",
+  "description": "polyfills for the browser (extracted from polyfill.io service)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Jonathan Neal",
+      "email": "jonathantneal+github@gmail.com",
+      "url": "http://jonathantneal.com/"
+    },
+    {
+      "name": "FT Labs",
+      "email": "enquiries@labs.ft.com",
+      "url": "http://labs.ft.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkimen/browser-polyfill.git"
+  },
+  "keywords": [
+    "polyfill",
+    "browser",
+    "library"
+  ],
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/silkimen/browser-polyfill/issues"
+  },
+  "homepage": "https://github.com/silkimen/browser-polyfill#readme"
+}
