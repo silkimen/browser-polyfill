@@ -1,6 +1,6 @@
 {
   "name": "browser-polyfill",
-  "version": "3.14.0",
+  "version": "3.20.2",
   "description": "polyfills for the browser (extracted from polyfill.io service)",
   "main": "index.js",
   "scripts": {
