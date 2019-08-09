@@ -212,6 +212,7 @@
 	defineProperty(Object, 'create', descriptor);
 
 	descriptor.value = function () {
+		'use strict';
 		var str = toString.call(this);
 		return (str === '[object String]' && onlySymbols(this)) ? '[object Symbol]' : str;
 	};
